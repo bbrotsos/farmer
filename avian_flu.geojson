@@ -1,0 +1,2799 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.237447,
+                    -123.386761
+                ]
+            },
+            "properties": {
+                "name": "Douglas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.229004,
+                    -119.276099
+                ]
+            },
+            "properties": {
+                "name": "Benton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.229004,
+                    -119.276099
+                ]
+            },
+            "properties": {
+                "name": "Benton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.094258,
+                    -123.451968
+                ]
+            },
+            "properties": {
+                "name": "Clallam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.438517,
+                    -96.830002
+                ]
+            },
+            "properties": {
+                "name": "Dixon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.611438,
+                    -116.627276
+                ]
+            },
+            "properties": {
+                "name": "Canyon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.619147,
+                    -120.955577
+                ]
+            },
+            "properties": {
+                "name": "Stanislaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.446246,
+                    -119.578336
+                ]
+            },
+            "properties": {
+                "name": "Okanogan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.446246,
+                    -119.578336
+                ]
+            },
+            "properties": {
+                "name": "Okanogan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.242749,
+                    -119.729084
+                ]
+            },
+            "properties": {
+                "name": "Kings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.092071,
+                    -121.30565
+                ]
+            },
+            "properties": {
+                "name": "Deschutes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.629871,
+                    -95.43713
+                ]
+            },
+            "properties": {
+                "name": "Pope"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.128993,
+                    -94.443436
+                ]
+            },
+            "properties": {
+                "name": "Jasper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.628938,
+                    -92.616373
+                ]
+            },
+            "properties": {
+                "name": "Moniteau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.267871,
+                    -93.099344
+                ]
+            },
+            "properties": {
+                "name": "Boone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.238518,
+                    -94.959302
+                ]
+            },
+            "properties": {
+                "name": "Leavenworth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.368344,
+                    -98.226727
+                ]
+            },
+            "properties": {
+                "name": "Beadle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.636327,
+                    -95.667405
+                ]
+            },
+            "properties": {
+                "name": "Nobles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.102395,
+                    -110.177445
+                ]
+            },
+            "properties": {
+                "name": "Judith Basin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.480374,
+                    -94.179066
+                ]
+            },
+            "properties": {
+                "name": "Webster"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.374375,
+                    -97.405002
+                ]
+            },
+            "properties": {
+                "name": "Kingsbury"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.993423,
+                    -94.583786
+                ]
+            },
+            "properties": {
+                "name": "Watonwan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.428427,
+                    -95.795395
+                ]
+            },
+            "properties": {
+                "name": "Lyon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.94151,
+                    -95.119501
+                ]
+            },
+            "properties": {
+                "name": "Cottonwood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.760167,
+                    -99.263772
+                ]
+            },
+            "properties": {
+                "name": "McPherson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.666866,
+                    -97.344878
+                ]
+            },
+            "properties": {
+                "name": "McCook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.087766,
+                    -98.328185
+                ]
+            },
+            "properties": {
+                "name": "Dickey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.39373,
+                    -93.717527
+                ]
+            },
+            "properties": {
+                "name": "Le Sueur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.040167,
+                    -88.784757
+                ]
+            },
+            "properties": {
+                "name": "Jefferson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.274076,
+                    -95.64442
+                ]
+            },
+            "properties": {
+                "name": "Swift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.274076,
+                    -95.64442
+                ]
+            },
+            "properties": {
+                "name": "Swift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.43888,
+                    -95.195158
+                ]
+            },
+            "properties": {
+                "name": "Redwood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.61302,
+                    -96.952207
+                ]
+            },
+            "properties": {
+                "name": "Roberts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.405065,
+                    -95.793598
+                ]
+            },
+            "properties": {
+                "name": "Otter Tail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    48.821304,
+                    -95.648394
+                ]
+            },
+            "properties": {
+                "name": "Roseau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.38638,
+                    -95.680373
+                ]
+            },
+            "properties": {
+                "name": "Osceola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.436158,
+                    -91.815595
+                ]
+            },
+            "properties": {
+                "name": "Barron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.842134,
+                    -90.100354
+                ]
+            },
+            "properties": {
+                "name": "Juneau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.524393,
+                    -95.04137
+                ]
+            },
+            "properties": {
+                "name": "Wadena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.910381,
+                    -98.429642
+                ]
+            },
+            "properties": {
+                "name": "Spink"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.38638,
+                    -95.680373
+                ]
+            },
+            "properties": {
+                "name": "Osceola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.163144,
+                    -85.47848
+                ]
+            },
+            "properties": {
+                "name": "Whitley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.94151,
+                    -95.119501
+                ]
+            },
+            "properties": {
+                "name": "Cottonwood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.981472,
+                    -96.270609
+                ]
+            },
+            "properties": {
+                "name": "Pipestone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.405065,
+                    -95.793598
+                ]
+            },
+            "properties": {
+                "name": "Otter Tail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.126413,
+                    -95.690881
+                ]
+            },
+            "properties": {
+                "name": "O'Brien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.857998,
+                    -96.672421
+                ]
+            },
+            "properties": {
+                "name": "Clay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.986588,
+                    -91.32738
+                ]
+            },
+            "properties": {
+                "name": "Chippewa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    40.085505,
+                    -91.649082
+                ]
+            },
+            "properties": {
+                "name": "Lewis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.405346,
+                    -98.520959
+                ]
+            },
+            "properties": {
+                "name": "LaMoure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.040167,
+                    -88.784757
+                ]
+            },
+            "properties": {
+                "name": "Jefferson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.960561,
+                    -95.620749
+                ]
+            },
+            "properties": {
+                "name": "Chippewa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.436158,
+                    -91.815595
+                ]
+            },
+            "properties": {
+                "name": "Barron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.274076,
+                    -95.64442
+                ]
+            },
+            "properties": {
+                "name": "Swift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.064305,
+                    -93.214413
+                ]
+            },
+            "properties": {
+                "name": "Steele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.38638,
+                    -95.680373
+                ]
+            },
+            "properties": {
+                "name": "Osceola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.126413,
+                    -95.690881
+                ]
+            },
+            "properties": {
+                "name": "O'Brien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.126413,
+                    -95.690881
+                ]
+            },
+            "properties": {
+                "name": "O'Brien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.436158,
+                    -91.815595
+                ]
+            },
+            "properties": {
+                "name": "Barron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.55783,
+                    -94.360801
+                ]
+            },
+            "properties": {
+                "name": "Stearns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.745402,
+                    -94.700868
+                ]
+            },
+            "properties": {
+                "name": "Pocahontas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.405065,
+                    -95.793598
+                ]
+            },
+            "properties": {
+                "name": "Otter Tail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.147016,
+                    -94.22057
+                ]
+            },
+            "properties": {
+                "name": "Kossuth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.127315,
+                    -95.159571
+                ]
+            },
+            "properties": {
+                "name": "Clay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.274076,
+                    -95.64442
+                ]
+            },
+            "properties": {
+                "name": "Swift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.347064,
+                    -93.989405
+                ]
+            },
+            "properties": {
+                "name": "Madison"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.749288,
+                    -95.593937
+                ]
+            },
+            "properties": {
+                "name": "Cherokee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.732195,
+                    -93.755488
+                ]
+            },
+            "properties": {
+                "name": "Wright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.274076,
+                    -95.64442
+                ]
+            },
+            "properties": {
+                "name": "Swift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.981472,
+                    -96.270609
+                ]
+            },
+            "properties": {
+                "name": "Pipestone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.265357,
+                    -94.06079
+                ]
+            },
+            "properties": {
+                "name": "Nicollet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.749288,
+                    -95.593937
+                ]
+            },
+            "properties": {
+                "name": "Cherokee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.436158,
+                    -91.815595
+                ]
+            },
+            "properties": {
+                "name": "Barron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.436158,
+                    -91.815595
+                ]
+            },
+            "properties": {
+                "name": "Barron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.040167,
+                    -88.784757
+                ]
+            },
+            "properties": {
+                "name": "Jefferson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.38638,
+                    -95.680373
+                ]
+            },
+            "properties": {
+                "name": "Osceola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.732195,
+                    -93.755488
+                ]
+            },
+            "properties": {
+                "name": "Wright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.745402,
+                    -94.700868
+                ]
+            },
+            "properties": {
+                "name": "Pocahontas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.749288,
+                    -95.593937
+                ]
+            },
+            "properties": {
+                "name": "Cherokee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.274076,
+                    -95.64442
+                ]
+            },
+            "properties": {
+                "name": "Swift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.43888,
+                    -95.195158
+                ]
+            },
+            "properties": {
+                "name": "Redwood"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.099878,
+                    -94.690212
+                ]
+            },
+            "properties": {
+                "name": "Palo Alto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.749288,
+                    -95.593937
+                ]
+            },
+            "properties": {
+                "name": "Cherokee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.732195,
+                    -93.755488
+                ]
+            },
+            "properties": {
+                "name": "Wright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.274076,
+                    -95.64442
+                ]
+            },
+            "properties": {
+                "name": "Swift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.438517,
+                    -96.830002
+                ]
+            },
+            "properties": {
+                "name": "Dixon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.902431,
+                    -97.394907
+                ]
+            },
+            "properties": {
+                "name": "Yankton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.336046,
+                    -97.746735
+                ]
+            },
+            "properties": {
+                "name": "Hutchinson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.749288,
+                    -95.593937
+                ]
+            },
+            "properties": {
+                "name": "Cherokee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.385265,
+                    -96.218544
+                ]
+            },
+            "properties": {
+                "name": "Lyon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.747907,
+                    -96.203431
+                ]
+            },
+            "properties": {
+                "name": "Plymouth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.438517,
+                    -96.830002
+                ]
+            },
+            "properties": {
+                "name": "Dixon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.679153,
+                    -95.181444
+                ]
+            },
+            "properties": {
+                "name": "Buena Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.019542,
+                    -96.65761
+                ]
+            },
+            "properties": {
+                "name": "Moody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.079825,
+                    -96.16727
+                ]
+            },
+            "properties": {
+                "name": "Sioux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.400162,
+                    -94.625331
+                ]
+            },
+            "properties": {
+                "name": "Calhoun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.745402,
+                    -94.700868
+                ]
+            },
+            "properties": {
+                "name": "Pocahontas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.438517,
+                    -96.830002
+                ]
+            },
+            "properties": {
+                "name": "Dixon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.284244,
+                    -94.599226
+                ]
+            },
+            "properties": {
+                "name": "Brown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    41.344629,
+                    -94.479157
+                ]
+            },
+            "properties": {
+                "name": "Adair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.732195,
+                    -93.755488
+                ]
+            },
+            "properties": {
+                "name": "Wright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.136368,
+                    -94.482983
+                ]
+            },
+            "properties": {
+                "name": "Meeker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.407552,
+                    -93.766985
+                ]
+            },
+            "properties": {
+                "name": "Hamilton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.284244,
+                    -94.599226
+                ]
+            },
+            "properties": {
+                "name": "Brown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.732195,
+                    -93.755488
+                ]
+            },
+            "properties": {
+                "name": "Wright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.019542,
+                    -96.65761
+                ]
+            },
+            "properties": {
+                "name": "Moody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.284244,
+                    -94.599226
+                ]
+            },
+            "properties": {
+                "name": "Brown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.400162,
+                    -94.625331
+                ]
+            },
+            "properties": {
+                "name": "Calhoun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.129816,
+                    -93.998839
+                ]
+            },
+            "properties": {
+                "name": "Blue Earth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.15505,
+                    -95.016796
+                ]
+            },
+            "properties": {
+                "name": "Kandiyohi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.407552,
+                    -93.766985
+                ]
+            },
+            "properties": {
+                "name": "Hamilton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.407552,
+                    -93.766985
+                ]
+            },
+            "properties": {
+                "name": "Hamilton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.127315,
+                    -95.159571
+                ]
+            },
+            "properties": {
+                "name": "Clay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.284244,
+                    -94.599226
+                ]
+            },
+            "properties": {
+                "name": "Brown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.375805,
+                    -95.088801
+                ]
+            },
+            "properties": {
+                "name": "Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.721974,
+                    -94.937875
+                ]
+            },
+            "properties": {
+                "name": "Renville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    42.407552,
+                    -93.766985
+                ]
+            },
+            "properties": {
+                "name": "Hamilton"
+            }
+        }
+    ]
+}
