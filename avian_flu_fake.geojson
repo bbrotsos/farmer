@@ -1,864 +1,863 @@
-{"states":[{"state": "Oregon","avian_indiator":true},{"state": "Washington","avian_indiator":true},{"state": "Washington","avian_indiator":true},{"state": "Washington","avian_indiator":true},{"state": "Nebraska","avian_indiator":true},{"state": "Idaho","avian_indiator":true},{"state": "California","avian_indiator":true},{"state": "Washington","avian_indiator":true},{"state": "Washington","avian_indiator":true},{"state": "California","avian_indiator":true},{"state": "Oregon","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Missouri","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Missouri","avian_indiator":true},{"state": "Arkansas","avian_indiator":true},{"state": "Kansas","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Montana","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "North Dakota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Indiana","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Missouri","avian_indiator":true},{"state": "North Dakota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Wisconsin","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Nebraska","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Nebraska","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Nebraska","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "South Dakota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Minnesota","avian_indiator":true},{"state": "Iowa","avian_indiator":true},]}{
-    "states": [
+{    "states": [
         {
             "state": "Oregon",
             "avian_indiator": true
         },
         {
             "state": "Washington",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Washington",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Washington",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Nebraska",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Idaho",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "California",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Washington",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Washington",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "California",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Oregon",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Missouri",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Missouri",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Arkansas",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Kansas",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Montana",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "North Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Indiana",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Missouri",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "North Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Wisconsin",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Nebraska",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Nebraska",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Nebraska",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "South Dakota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Minnesota",
-            "avian_indiator": true
+            "avian_indiator": false
         },
         {
             "state": "Iowa",
-            "avian_indiator": true
+            "avian_indiator": false
         }
     ]
 }

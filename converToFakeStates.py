@@ -13,7 +13,7 @@ with open('flu_with_location.csv', 'rU') as csvfile:
 	reader = csv.DictReader(csvfile)
 	for row in reader:
 		jsonString = jsonString + "{\"state\": \"" + row['State'] + "\","
-		jsonString = jsonString + "\"avian_indiator\":true},"
+		jsonString = jsonString + "\"avian_indiator\":false},"
 		
 	   
 	    
