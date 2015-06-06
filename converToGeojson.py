@@ -13,10 +13,10 @@ with open('flu_with_location.csv', 'rU') as csvfile:
 	reader = csv.DictReader(csvfile)
 	for row in reader:
 		
-	    print (row['County'])
+	    print (row['flock_size'])
 	    jsonString = jsonString + "{\"type\": \"Feature\", \"geometry\":{\"type\":\"Point\",\"coordinates\":[" + row['LATITUDE'] + "," + row['LONGITUDE'] + "]},"
 	    
-	    jsonString = jsonString + "\"properties\": { \"name\": \"" + row['County'] + row['flock_size'] + "\","
+	    jsonString = jsonString + "\"properties\": { \"name\": \"" + row['flock_size'] + "\","
 	    if (row['flock_size']== "pending"): 
 			jsonString = jsonString + "\"flock_size\":0,"
 	    else:
@@ -25,7 +25,6 @@ with open('flu_with_location.csv', 'rU') as csvfile:
 	    jsonString = jsonString + "\"species\":\"" + row['Species'] + "\","
 	    jsonString = jsonString + "\"subtype\":\"" + row['subtype'] + "\","
 	    jsonString = jsonString + "\"confirmation_date\":\"" + row['confirmation_date'] + "\""
-	     
 	    jsonString = jsonString + "}},"
 	    
 jsonString = jsonString + "]}"
